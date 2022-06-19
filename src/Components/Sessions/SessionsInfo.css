@@ -1,0 +1,38 @@
+.session-info__description {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: normal;
+    flex-flow: column-reverse;
+    justify-content: flex-start;
+    flex: 1;
+    color:#FFFFFF
+  }
+
+
+.session-Info-border{
+
+    border-style: solid;
+    border-width: 2.5px;
+    border-color: blue;
+  }
+
+  .session-info h3 {
+    color: #FFFFFF;
+    font-size: 1.3rem;
+    flex: 1;
+    margin: 0 30rem;
+    color: white;
+  }
+  .session-info__button {
+    font-size: 1rem;
+    font-weight: bold;
+    color: white;
+    background-color: #40005d;
+    border: 1px solid white;
+    padding: 0.5rem;
+    border-radius: 12px;
+    margin: 0 62rem;
+    width: 7rem;
+
+  }

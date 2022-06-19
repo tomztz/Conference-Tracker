@@ -1,0 +1,13 @@
+.speakers {
+    padding: 0.1rem;
+    background-color: rgb(31, 31, 31);
+    margin: 1rem auto;
+    width: 85rem;
+    max-width: 90%;
+
+  }
+  .speaker__fallback {
+    color: blue;
+    font-size: 60px;
+    font-style: italic;
+  }

@@ -1,0 +1,10 @@
+.session-list {
+    list-style: none;
+    padding: 0;
+
+  }
+  
+  .session-list__fallback {
+    color: white;
+    text-align: center;
+  }

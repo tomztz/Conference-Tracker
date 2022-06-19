@@ -1,0 +1,10 @@
+.speaker-list {
+    list-style: none;
+    padding: 0;
+
+  }
+  
+  .speaker-list__fallback {
+    color: white;
+    text-align: center;
+  }
